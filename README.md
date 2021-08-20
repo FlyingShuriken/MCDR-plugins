@@ -12,7 +12,7 @@ Or you can create it manually.
 
 ## Commands
 !!rsc - Show help message  
-!!rsc <command> [<params>] - execute vanilla command  
+!!rsc <command> <params> - execute vanilla command  
 !!rsclist - list all the commands that had been added into the whitelist  
 !!rscadd <command> <permission> - add the command into the whitelist  
 !!rscrem <command> - remove the command from the whitelist  
@@ -32,8 +32,8 @@ P/S: The permission in the ``!!rscadd`` should be the highest permission value f
 
 ## 指令
 !!rsc - 顯示這條消息  
-!!rsc <原版指令> - [<參數>] 執行原版指令  
+!!rsc <原版指令> <參數> - 執行原版指令  
 !!rsclist - 顯示所有已被添加至白名單的指令  
-!!rscadd - <原版指令> <權限> 添加指令至白名單  
-!!rscrem - <原版指令> 從白名單中移除指令  
+!!rscadd <原版指令> <權限> - 添加指令至白名單  
+!!rscrem <原版指令> - 從白名單中移除指令  
 P/S: 請在設置權限時將權限設爲最高可執行此指令的權限代號  
