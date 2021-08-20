@@ -2,15 +2,7 @@
 	"id": "run_some_commands",
 	"version": "1.0.0",
 	"name": "Run Some Commands",
-	"description": {
-		"en_us": "Let player run whitelisted vanilla command",
-		"zh_cn": "讓普通玩家執行已被加入白名單的原版指令"
-	},
-	"author": [
-		"FlyingShuriken"
-	],
+	"author":"FlyingShuriken",
 	"link": "https://github.com/FlyingShuriken/MCDR-plugins",
-	"resources": [
-		"LICENSE"
-	]
+	"resources":["README.md"]
 }
