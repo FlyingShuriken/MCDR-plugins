@@ -2,7 +2,7 @@
 A plugin library for [MCDReforged](https://github.com/Fallen-Breath/MCDReforged).  
 My own lightweight plugin.  
 ## Installation
-place ``run_some_commands.py`` in the ``./plugins`` folder.  
+place ``run_some_commands_v1.0.0.mcdr`` in the ``./plugins`` folder.  
 ## Config
 After the plugin is loaded, ``rsc.config`` should be created in the ``./config`` folder.  
 Or you can create it manually.  
@@ -23,7 +23,7 @@ P/S: The permission in the !!rscadd should be the highest permission value for t
 一個 [MCDReforged](https://github.com/Fallen-Breath/MCDReforged) 的插件庫  
 我自己製作的輕量級插件  
 ## 安裝
-將 ``run_some_commands.py`` 放置在 ``./plugins`` 資料夾裡.  
+將 ``run_some_commands_v1.0.0.mcdr`` 放置在 ``./plugins`` 資料夾裡.  
 ## Config
 加載插件后, ``rsc.config`` 將自動被生成于 ``./config`` 資料夾裡  
 你也可以手動生成   
